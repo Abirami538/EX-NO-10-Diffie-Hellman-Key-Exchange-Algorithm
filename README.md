@@ -24,6 +24,7 @@ To Implement Diffie Hellman Key Exchange Algorithm
 
 ## Output:
 
+<img width="1736" height="884" alt="image" src="https://github.com/user-attachments/assets/f7ac4f29-2ecf-4133-afaa-d987019ec25b" />
 
 
 ## Result:
